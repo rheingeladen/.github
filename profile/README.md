@@ -10,10 +10,11 @@ Ortsbezug. Was einmal richtig gelöst ist, bleibt richtig gelöst.
 
 ## Drei Zusagen, die Technik sind — keine Absicht
 
-**Kein Cookie-Banner.** Nicht, weil darauf verzichtet wird, sondern weil nichts
-zu melden ist: keine Analyse, keine eingebettete Karte, keine Schrift von einem
-fremden Server. Ein Test bricht den Build, sobald eine Seite zum ersten Mal
-irgendwohin nach draußen spricht.
+**Kein Cookie-Banner.** Nicht als Verzicht, sondern weil nichts einwilligungs-
+pflichtig ist: keine eingebettete Karte, keine Schrift von einem fremden
+Server, kein Cookie. Gezählt wird durchaus — nur ohne Kennung im Browser und
+ohne fremden Host, die Messwerte gehen an die eigene Domain. Ein Test bricht
+den Build, sobald eine Seite zum ersten Mal irgendwohin nach draußen spricht.
 
 **Barrierefrei, nicht barrierearm.** Jeder Baustein hat seinen eigenen
 Zugänglichkeitstest, jede Seite wird zusätzlich als Ganzes geprüft — hell und

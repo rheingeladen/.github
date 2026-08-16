@@ -50,7 +50,7 @@ dieses Profil.
 ## Ansehen
 
 Die eigene Seite ist zugleich der Arbeitsnachweis:
-**[rheingeladen.vercel.app](https://rheingeladen.vercel.app)**
+**[rheingeladen.de](https://rheingeladen.de)**
 
-Noch eine Vorschau — die Adresse ist vorläufig, einzelne Angaben sind
-Platzhalter, und für Suchmaschinen ist die Seite bis zum Livegang gesperrt.
+Sie steht, ist aber noch nicht freigegeben: einzelne Angaben sind Platzhalter,
+und für Suchmaschinen ist die Seite bis dahin gesperrt.
